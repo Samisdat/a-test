@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "description": "An test",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@af-utils/scrollend-polyfill": "^0.0.14",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@vis.gl/react-google-maps": "^1.5.1",
+    "@vodafone_de/brix-components": "7.0.16",
+    "html-react-parser": "4.1",
+    "polished": "^4.3.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "latest",
+    "styled-components": "^6.1.17",
+    "typescript": "^3.2.1 || ^4",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
+}
